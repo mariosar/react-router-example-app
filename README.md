@@ -1,3 +1,11 @@
+# React Router Example
+
+This is a basic repo that includes the `react-router-dom` library and uses some of its functionality to teach how to use it to make SPA apps. The accompanying tutorial can be found [here](https://mariosaraiva.com/react/2019/11/01/react-spa-with-react-router-dom.html)
+
+The remainder of the documentation is the standard Create React App readme.
+
+#### End ###
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
